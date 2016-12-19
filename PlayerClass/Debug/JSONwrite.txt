@@ -1,0 +1,15 @@
+{
+    "id": "100",
+    "name": "Phoenix",
+    "dateOfBirth": "13\/01\/1996",
+    "country": "England",
+    "email": "phoenixwaldron1996@gmail.com",
+    "currentlevel": "1",
+    "remaininglives": "3",
+    "bulletsCount": "100",
+    "maxLevelReached": "1",
+    "language": "welsh",
+    "volumeLevel": "100",
+    "graphicQuality": "High",
+    "difficultyLevel": "3"
+}
